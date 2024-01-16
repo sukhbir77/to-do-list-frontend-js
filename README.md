@@ -24,4 +24,4 @@ The TodoTask Manager Website is designed to provide users with an easy-to-use in
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/sukhbir77/ToDoList-.git
+   git clone https://github.com/sukhbir77/to-do-list-frontend-js-.git
